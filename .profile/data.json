@@ -1,0 +1,213 @@
+{
+ "key": "36e8131e",
+ "stars": 1,
+ "contributions": 66,
+ "repos": 6,
+ "followers": 4,
+ "languages": [
+  [
+   "Java",
+   2373626
+  ],
+  [
+   "Python",
+   306184
+  ],
+  [
+   "JavaScript",
+   40066
+  ],
+  [
+   "CSS",
+   15510
+  ],
+  [
+   "HTML",
+   10596
+  ],
+  [
+   "Lua",
+   858
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 2
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "NewFigura",
+   "url": "https://github.com/Sanderovich2/NewFigura",
+   "text": "Extensive player model customization — avatars, animations & Lua scripting. Figura ported to modern Minecraft versions, no server mod required!",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Sanderovich2",
+   "url": "https://github.com/Sanderovich2/Sanderovich2",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "monogram",
+   "url": "https://github.com/Sanderovich2/monogram",
+   "text": "Native Telegram client for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "PromptWizard",
+   "url": "https://github.com/Sanderovich2/PromptWizard",
+   "text": "Analyze a prompt, ask the missing questions in one batch, and rewrite it better. CLI + tkinter GUI, RU/EN, free LLM providers (keyless by default), standard library only.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "cross-platform",
+    "gemini",
+    "groq",
+    "llm",
+    "ollama",
+    "openrouter",
+    "prompt-engineering",
+    "prompt-optimization",
+    "prompt-tool"
+   ]
+  },
+  {
+   "name": "Pix2Vec",
+   "url": "https://github.com/Sanderovich2/Pix2Vec",
+   "text": "Pix2Vec: convert raster images (PNG, JPEG, WEBP, BMP, GIF, TIFF, ICO) into vector SVG. 6 tracing profiles, batch processing, crash-isolated workers. Python CLI, Windows-first.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "batch-processing",
+    "cli",
+    "converter",
+    "desktop-tool",
+    "graphics",
+    "image-processing",
+    "image-tracing",
+    "jpeg",
+    "pillow",
+    "png"
+   ]
+  },
+  {
+   "name": "BetterMemoryLeakFix",
+   "url": "https://github.com/Sanderovich2/BetterMemoryLeakFix",
+   "text": "A Fabric Mod that fixes multiple memory leaks in minecraft",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ]
+}
