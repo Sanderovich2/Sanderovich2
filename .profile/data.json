@@ -1,13 +1,13 @@
 {
- "key": "25ee5486",
- "stars": 1,
- "contributions": 68,
+ "key": "feb65568",
+ "stars": 2,
+ "contributions": 70,
  "repos": 7,
- "followers": 4,
+ "followers": 3,
  "languages": [
   [
    "Java",
-   2471055
+   2484941
   ],
   [
    "Python",
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 4,
     "day": 26,
     "today": true
    },
@@ -134,20 +134,20 @@
  "pins": [],
  "all": [
   {
-   "name": "NewFigura",
-   "url": "https://github.com/Sanderovich2/NewFigura",
-   "text": "Extensive player model customization — avatars, animations & Lua scripting. Figura ported to modern Minecraft versions, no server mod required!",
+   "name": "Render4U",
+   "url": "https://github.com/Sanderovich2/Render4U",
+   "text": "Modern high-performance rendering utility for Minecraft Fabric with Vulkan and OpenGL support",
    "fork": false,
    "stars": 1,
    "language": "Java",
    "topics": []
   },
   {
-   "name": "Render4U",
-   "url": "https://github.com/Sanderovich2/Render4U",
-   "text": "Modern high-performance rendering utility for Minecraft Fabric with Vulkan and OpenGL support",
+   "name": "NewFigura",
+   "url": "https://github.com/Sanderovich2/NewFigura",
+   "text": "Extensive player model customization — avatars, animations & Lua scripting. Figura ported to modern Minecraft versions, no server mod required!",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Java",
    "topics": []
   },
