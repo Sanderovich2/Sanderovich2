@@ -1,6 +1,6 @@
 {
- "key": "7abe45ec",
- "stars": 5,
+ "key": "b260920c",
+ "stars": 6,
  "contributions": 79,
  "repos": 7,
  "followers": 3,
@@ -134,7 +134,7 @@
    "url": "https://github.com/Sanderovich2/Render4U",
    "text": "Modern high-performance rendering utility for Minecraft Fabric with Vulkan and OpenGL support",
    "fork": false,
-   "stars": 4,
+   "stars": 5,
    "language": "Java",
    "topics": []
   },
